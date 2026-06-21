@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-angel-celestial/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Piel de ángel celestial](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-angel-celestial/) |
+| **Get License** | [Music Rights & Licensing for Piel de ángel celestial](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-angel-celestial/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Piel de ángel celestial, brillando en la oscuridad
+> Tú y yo esta noche, los dueños de la ciudad
+> Me tienes adicto a tu forma de mirar
+> Te deseo tanto, ya no lo puedo ocultar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
