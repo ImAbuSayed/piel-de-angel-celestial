@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Piel de ángel celestial |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-angel-celestial/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Piel de ángel celestial](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-angel-celestial/) |
+| **Get License** | [Commercial Licensing for Piel de ángel celestial](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-angel-celestial/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Piel de ángel celestial, brillando en la oscuridad
-> Tú y yo esta noche, los dueños de la ciudad
-> Me tienes adicto a tu forma de mirar
-> Te deseo tanto, ya no lo puedo ocultar
+> Piel de ángel celestial
+> Tus labios saben a miel
+> Bailamos sin final
+> Eres mi único hotel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
