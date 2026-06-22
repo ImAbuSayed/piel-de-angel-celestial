@@ -15,7 +15,7 @@
 | **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-angel-celestial/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Piel de ángel celestial](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-angel-celestial/) |
+| **Get License** | [Get License For Piel de ángel celestial](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-angel-celestial/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `b4626ae6a9d394254a8ab3be2c8c18ad2cadb6b7ccad29696567ef1d3fe35546` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `ad616df155a706fe5bb1a2573fd7d0ca495cca98ad6edb02510dd5b3363cacf3` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

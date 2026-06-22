@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Piel de 
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-22T05:49:20.298182 | `v1` | `b4626ae6a9d394254a8ab3be2c8c18ad2cadb6b7ccad29696567ef1d3fe35546` | `c9c2fccad72e19db120e4f9f6d9b348bcb5c4ebb5a285a6d28f9c8996a51f6e6` | `2026-06-22_piel-de-angel-celestial-v1.txt` |
+| 2026-06-22T06:18:31.731231 | `v2` | `ad616df155a706fe5bb1a2573fd7d0ca495cca98ad6edb02510dd5b3363cacf3` | `c5eb7f97694fb1aa1edd3e69fcfb63063474b3b8ab9137924511e8fd6052b41c` | `2026-06-22_piel-de-angel-celestial-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
